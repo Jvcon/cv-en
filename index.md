@@ -7,8 +7,7 @@ email:
 homepage:
     url: https://jvcon.github.io
     text: jvcon.github.io
-phone:
-	text: +86 136-5016-4711
+phone: +86 136-5016-4711
 ---
 # Jacques __Yip__
 
