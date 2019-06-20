@@ -1,14 +1,16 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Jacques Yip
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+    url: mailto:jayto118@gmail.com
+    text: jayto118@gmail.com
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://jvcon.github.io
+    text: jvcon.github.io
+phone:
+	text: +86 136-5016-4711
 ---
-# Wode __Ni__
+# Jacques __Yip__
 
 <!--
 include contact information from the front matter
