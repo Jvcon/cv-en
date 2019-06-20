@@ -20,29 +20,7 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
-
-### __Carnegie Mellon University__ `2018.9 -`
-```
-Pittsburgh, PA
-```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
+<!--
 ## Publications
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
@@ -55,6 +33,7 @@ __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Cra
 ### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF](assets/superres.pdf)]
+-->
 
 ## Experience
 
@@ -70,6 +49,30 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
+## Education
+
+### __Zhongkai University of Agriculture And Engineering__ `2014.9 -2018.6`
+```
+Guangzhou, Guangdong
+```
+- Bachelor in Mechanical electronics
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+
+<!--
+### __Columbia University__ `2016.9 - 2018.5`
+```
+New York, NY
+```
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### __Dickinson College__ `2013.9 - 2016.5`
+```
+Carlisle, PA
+```
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
+-->
 
 ## Teaching
 
