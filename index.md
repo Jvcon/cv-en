@@ -35,6 +35,8 @@ __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF](assets/superres.pdf)]
 -->
 
+## Summary
+
 ## Experience
 
 ### __Weicantimes Information Technology Co., Ltd.__  `2017.11 - Now`
@@ -56,43 +58,22 @@ Worked on server-side web applications and server deployment tools.
 Guangzhou, Guangdong
 ```
 - Bachelor in Mechanical electronics
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Certification of CET-4 
+- Model cadre of the Communist Youth League `2016-2017`
+- Elected to Chairman for Innovation and Venture Union `2015-2017`
+- Elected to Chairman for Entrepreneur Association `2016-2017`
 
-<!--
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+## Skills List
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
--->
-
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+__Axure__ `Advance` <br>
+__Visio__ `Advance` <br>
+__Project__ `Advance` <br>
+__Offcie__ `Advance` <br>
+__Photoshop__ `Medium` <br>
+__H5&CSS__ `Basic knowledge` <br>
+__Python__ `Basic knowledge` <br>
+__AutoCAD__ `Medium` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2019 -->
