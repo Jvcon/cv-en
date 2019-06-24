@@ -64,9 +64,9 @@ __Visio__ `Advance` <br>
 __Project__ `Advance` <br>
 __Offcie__ `Advance` <br>
 __Photoshop__ `Medium` <br>
+__AutoCAD__ `Medium` <br>
 __H5&CSS__ `Basic knowledge` <br>
 __Python__ `Basic knowledge` <br>
-__AutoCAD__ `Medium` <br>
 
 <!-- ### Footer
 
