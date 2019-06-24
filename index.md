@@ -37,19 +37,13 @@ __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 
 ## Summary
 
-## Experience
+## Work Experience
 
 ### __Weicantimes Information Technology Co., Ltd.__  `2017.11 - Now`
 _Product Manager_<br>
 __Weicantimes__ is a start-up company that commited to provide the solution about catering management,which Based on the SaaS framework. Established four main product lines : __Smart restaurant__, __Intelligent marketing__, __Supply chain__and __Mechanism service__. Manage a cross-functional team, I designed and implemented the framework of __Smart restaurant__ , and optimized the _Weican Assisstant HD_ to support functions and logically quantified statements, which promoted .
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+## Project Experience
 
 ## Education
 
