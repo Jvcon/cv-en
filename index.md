@@ -37,9 +37,6 @@ _Weicantimes_ is a start-up company that commited to provide the solution about 
 ## Project Experience
 
 ### __Weican Assistant HD & Print Service__	`2018.07 – Now`
-```
-Android app for Waiter
-```
 
 - Leading the R&D team to upgrade the project, output about 48 prototypes and PRD documents, and complete 63 demand iterations of the project.
 - The functional module realizes the plug-in design, which support the marketing strategy of the operation department.
@@ -47,18 +44,12 @@ Android app for Waiter
 - Re-planning the printing model of “Client–Service-Printer”. After three adjustments, the billing rate increased by 6%, and currently it is about 98.74%.
 
 ### __Report Statistics Mini-program__	`2018.07 - Now`
-```
-Data visualization tool
-```
 
 - The product is positioned as a data-based and graphical information tool for restaurant business information, which is convenient for restaurant operators to grasp store business information.
 - The applet has the characteristics of data binding, modularization, and multi-terminal rendering, which is very suitable for product positioning.
 - Leading the use of the mpvue framework to rebuild the project. The framework has components and modular, automated build features that can be deployed and run on compatible multi-end multi-platform applets, which improves code reuse and R&D efficiency, and enhances the product. Compatibility with various small program platforms on the market.
 
 ### __Weicantimes Merchant Platform__ `2018.03 – 2018.11`
-```
-System management system
-```
 
 - Designed for the entire smart restaurant cloud system design, integrating the function opening, store management, menu information, member marketing, inventory management.
 - PWA for the project, retaining its open platform, easy to access, indexable nature, and access to the interactive experience of the mobile application's native application, as well as offline cache features.
