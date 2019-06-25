@@ -20,30 +20,49 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-<!--
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
--->
-
 ## Summary
+Product Manager with more than one years of design and management product, including Android, H5 and Mini-program.Experience in hardware and network communication related projects. Focused on the optimal solution to landing product, which based on comsideration of technology. Effectively balance targets with resources and optimize long-term success.
 
 ## Work Experience
 
 ### __Weicantimes Information Technology Co., Ltd.__  `2017.11 - Now`
 _Product Manager_<br>
-__Weicantimes__ is a start-up company that commited to provide the solution about catering management,which Based on the SaaS framework. Established four main product lines : __Smart restaurant__, __Intelligent marketing__, __Supply chain__and __Mechanism service__. Manage a cross-functional team, I designed and implemented the framework of __Smart restaurant__ , and optimized the _Weican Assisstant HD_ to support functions and logically quantified statements, which promoted .
+_Weicantimes_ is a start-up company that commited to provide the solution about catering management,which Based on the SaaS framework. Established four main product lines : __Smart restaurant__, __Intelligent marketing__, __Supply chain__and __Mechanism service__.
+
+- Write competitive product analysis about the background of catering SaaS and queuing products, which support functions and logically quantified statements.
+- Building a project management system from 0 to 1 with _Redmine_ , _Zentao_ , _Yapi_ , _Weblate_ , _Jenkins_ .
+- Manage a cross-functional team, designed and implemented the framework of _Smart restaurant_ .
+- Leader of _Weican Assistant HD_ , _Weican Report Statistics_ , _Weican Queue_ , _Weicant Assistant HD_ is the core project, which help the company get 6 million investment.
 
 ## Project Experience
+
+### __Weican Assistant HD & Print Service__	`2018.07 – Now`
+```
+Android app for Waiter
+```
+
+- Leading the R&D team to upgrade the project, output about 48 prototypes and PRD documents, and complete 63 demand iterations of the project.
+- The functional module realizes the plug-in design, which support the marketing strategy of the operation department.
+- The first use of intelligent identification network link solution to reduce user cost, while improving the deployment efficiency of the installation team, network hardware configuration can be completed from 1 hour to 20 minutes.
+- Re-planning the printing model of “Client–Service-Printer”. After three adjustments, the billing rate increased by 6%, and currently it is about 98.74%.
+
+### __Report Statistics Mini-program__	`2018.07 - Now`
+```
+Data visualization tool
+```
+
+- The product is positioned as a data-based and graphical information tool for restaurant business information, which is convenient for restaurant operators to grasp store business information.
+- The applet has the characteristics of data binding, modularization, and multi-terminal rendering, which is very suitable for product positioning.
+- Leading the use of the mpvue framework to rebuild the project. The framework has components and modular, automated build features that can be deployed and run on compatible multi-end multi-platform applets, which improves code reuse and R&D efficiency, and enhances the product. Compatibility with various small program platforms on the market.
+
+### __Weicantimes Merchant Platform__ `2018.03 – 2018.11`
+```
+System management system
+```
+
+- Designed for the entire smart restaurant cloud system design, integrating the function opening, store management, menu information, member marketing, inventory management.
+- PWA for the project, retaining its open platform, easy to access, indexable nature, and access to the interactive experience of the mobile application's native application, as well as offline cache features.
+- Support embedded Android applications, call system-level components, and expand its interactive experience.
 
 ## Education
 
